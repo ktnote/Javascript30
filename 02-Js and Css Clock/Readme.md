@@ -17,8 +17,9 @@
 .style.transform = `rotate(${secondsDeg}deg);`
 ```
 ### setInterval()
-定時器，有兩個參數setInterval(callback, time)
-第一個是要執行的function，第二個是時間(毫秒)
+定時器，有兩個參數：第一個是要執行的function，第二個是時間(毫秒)
+`setInterval(callback, time)`
+
 
 ## CSS
 ### transform-origin
