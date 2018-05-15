@@ -30,3 +30,5 @@ transform-origin: 100% //移動軸心
 ```
 ## Demo
 <https://codepen.io/u9965522/pen/WJgQgx?editors=1111>
+
+2018.05.15
