@@ -7,11 +7,12 @@
   window.addEventListener('keydown',keyboard); //監聽視窗鍵盤事件
 ```
 
-* 利用for迴圈新增/移除Highlight效果
+* 利用for迴圈新增/移除Highlight效果 與 撥放對應音效
 ```
   .classList.add('light'); //新增
   .classList.remove('light'); //移除
 ```
+
 
 ## CSS
 * flex用法:
