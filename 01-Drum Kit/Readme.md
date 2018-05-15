@@ -15,6 +15,7 @@
 
 ## CSS
 * flex用法:
+	- flex: 1 //簡寫，全部為flex: flex-grow｜flex-shrink｜flex-basis
 	- align-items : center; //垂直置中
 	- justify-content:center; //水平置中
 ## Demo
