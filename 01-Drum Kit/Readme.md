@@ -9,11 +9,11 @@
 
 * 利用for迴圈新增/移除Highlight效果
 ```
-  .classList.add('light');
-  .classList.remove('light')
+  .classList.add('light'); //新增
+  .classList.remove('light'); //移除
 ```
 
 ## CSS
-* flex基本用法:
+* flex用法:
 	- align-items : center; //垂直置中
-  - justify-content:center; //水平置中
+	- justify-content:center; //水平置中
