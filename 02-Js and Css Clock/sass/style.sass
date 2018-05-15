@@ -1,0 +1,42 @@
+body
+  background: #018DED url(http://unsplash.it/1500/1000?image=881&blur=50)
+
+  .clock
+    width: 60%
+    margin: 0 auto
+    text-align: center
+    position: relative
+  .clock-face
+    width: 200px
+    height: 200px
+    border: 6px solid #fff
+    border-radius: 50%
+    position: relative
+    transform: rotate(90deg)
+  
+.hand
+  width: 50%
+  height: 3px
+  background: black
+  position: absolute
+  top: 50%
+  transform-origin: 100% //移動軸心
+  transform: rotate(90deg)
+  transition: all 0.05s
+  border-radius: 50%
+
+.second-hand
+  height: 2px
+  background: #c11f1f
+
+.min-hand
+  height: 4px
+  width: 45%
+  margin-left: 5%
+  background: black
+
+.hour-hand
+  height: 6px
+  width: 35%
+  margin-left: 15%
+  background: black
