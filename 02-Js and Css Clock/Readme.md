@@ -1,4 +1,4 @@
-# Js and Css Clock
+# 02 - Js and Css Clock
 
 ## 簡介
 使用JS與CSS製作一個實時的時鐘效果
