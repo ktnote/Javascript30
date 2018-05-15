@@ -1,4 +1,4 @@
-# Drum kit
+# 01 - Drum kit
 ![](https://ktnote.github.io/Javascript30/01-Drum%20Kit/cover.jpg)
 
 ## 簡介
