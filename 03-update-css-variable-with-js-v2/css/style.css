@@ -1,0 +1,26 @@
+html,body{
+  background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+  background-size: cover;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.controls{
+  text-align: center;
+  padding: 40px;
+  color: #fff;
+}
+:root {
+    --base: #ffc600;
+    --spacing: 10px;
+    --blur: 10px;
+}
+img{
+  display: block;
+  text-align: center;
+  margin: 40px auto;
+  border: var(--spacing) solid;
+  border-color: var(--color);
+  -webkit-filter: blur(var(--blur));
+          filter: blur(var(--blur));
+}
